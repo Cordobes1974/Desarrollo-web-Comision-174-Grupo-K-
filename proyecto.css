@@ -31,7 +31,7 @@ html{
     font-family: 'Open Sans', sans-serif;
     height: 50vh;
     width: 100vw;
-    background: url(/html/img/Tecnologia.jpeg);
+    background: url(/Tecnologia.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -124,7 +124,7 @@ html{
 footer{
     color: black;
     background-color: antiquewhite;
-    padding:0;
+    padding: 15px;;
 
 };
 .baner{
